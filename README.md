@@ -91,31 +91,4 @@ Connect the LCD to pin no 7,6,5,4,3,2 of Arduino. Supply it with 5V Power Supply
 Source Code/Programs:
 Here is a Source Code or Program for Gas Leakage Detector with SMS Alert using GSM Module & Arduino. Copy this code and upload it to Arduino Board using Arduino IDE.
 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
+
